@@ -29,3 +29,4 @@ function capitalizeFirstLetter(string) {
       console.error("Hubo un error en la petición:", error);
     });
   
+    /*codigo terminado*/
